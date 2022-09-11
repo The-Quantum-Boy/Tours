@@ -1,1 +1,1 @@
-## React Projects Starter APP
+## This project provide the list of tours all over the world which is fetched from the API and provide the functionality to read the information about the different tours and provide the option to select the tour and delete it.
